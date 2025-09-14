@@ -4,7 +4,7 @@ This project implements **Stochastic Gradient Descent (SGD)** for a single-hidde
 The model is applied to the NYC Taxi dataset (`nytaxi2022.csv`) to predict the **total fare amount** from a set of trip features.
 
 ## Project Structure
-```t
+```
 proj/
   README.md                 # How to run, dependencies, and experiment reproducibility
   requirements.txt          # Python dependencies (or conda env.yml for environment setup)
